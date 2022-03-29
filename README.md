@@ -1,5 +1,5 @@
 # Patat and Friet locations
-This repository is an addition to the research paper "The geographical difference in the usage of words "Patat" and "Friet" among Dutch speakers". Aside from the necessary code we also provided this repository with output from the programs. In any command examples please change the standard s123456 to your own RUG number.  
+This repository is an addition to the research paper "The geographical difference in the usage of words "Patat" and "Friet" among Dutch speakers".In any command examples please change the standard s123456 to your own RUG number.  
 Important note that the instructions below are mostly applied to users that use LWP remotely.
 
 ## Versions of the software
